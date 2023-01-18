@@ -67,12 +67,12 @@
 
 ## Links
 
-* [Discord](https://discord.com/medifakt)
+* [Discord](https://discord.com/)
 * [Facebook](https://www.facebook.com/)
-* [GitHub](https://github.com/MedifaktDev)
-* [LinkedIn](https://www.linkedin.com/company/medifakt/)
-* [Medium](https://medium.com/@medifakt)
+* [GitHub](https://github.com/)
+* [LinkedIn](https://www.linkedin.com/company/)
+* [Medium](https://medium.com/)
 * [Telegram](https://t.me/)
 * [Twitter](https://twitter.com/)
-* [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
+* [YouTube](https://www.youtube.com/channel/)
 <!-- * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549) -->
